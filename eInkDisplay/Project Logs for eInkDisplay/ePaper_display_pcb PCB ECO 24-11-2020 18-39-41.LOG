@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=Q1 Old Footprint=SOT23-GDS New Footprint=SOT_723_MOSFET
+Change Component Comment : Designator=Q1 Old Comment=SI1308EDL New Comment=MOSFET_N
+Change component parameters: Designator = "m1" ("m1"); Footprint = "5046182012_molex_mezz"; UniqueID = "\EWRYJTUP" ("\EWRYJTUP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "5046182012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "538-504618-2012"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND_WURTH_WE-TPC_4828"; UniqueID = "\ELTXDVHP" ("\ELTXDVHP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part number"; Value = "LPS3314-473MRB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "994-LPS3314-473MRB"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOT23-GDS"; UniqueID = "\MULGCHST" ("\MULGCHST")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay / Siliconix"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SI1308EDL-T1-BE3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "78-SI1308EDL-T1-BE3"; VariantName = "[No Variations]"

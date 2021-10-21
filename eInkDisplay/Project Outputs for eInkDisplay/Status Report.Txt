@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [eInkDisplay.PrjPcb]
+   Generated File[ePaper_display_pcb.GBL]
+   Generated File[ePaper_display_pcb.RUL]
+   Generated File[ePaper_display_pcb.EXTREP]
+   Generated File[ePaper_display_pcb.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:27:07 On 20/10/2021

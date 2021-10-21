@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       10/08/21,,,,,,,
+Time:       12:43,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mil,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description
+C11,1uF/25V,BottomLayer,0402C,224.901,506.299,360,0402C
+C10,1uF/25V,BottomLayer,0402C,224.901,563.779,360,0402C
+U1,TPS22916CNYFPT,BottomLayer,BGA_4pin_0.8x0.8,143.534,637.795,90,BGA_4pin_0.8x0.8
+R3,100k,BottomLayer,0201R,82.185,637.795,180,0201R
+C9,1uF/25V,BottomLayer,0402C,128.278,682.087,180,0402C
+m1,5046182012,TopLayer,5046182012_molex_mezz,136.673,795.768,180,
+C1,1uF/25V,BottomLayer,0402C,230.249,236.419,360,0402C
+C2,1uF/25V,BottomLayer,0402C,125,387.303,90,0402C
+C3,4.7uF/10V,BottomLayer,0603C,312.067,-3.937,180,CAPACITOR 0603 CERAMIC
+C4,1uF/25V,BottomLayer,0402C,224.901,448.819,360,0402C
+C5,4.7uF/10V,BottomLayer,0603C,214.508,413.386,360,CAPACITOR 0603 CERAMIC
+C6,1uF/25V,BottomLayer,0402C,224.901,477.559,360,0402C
+C7,1uF/25V,BottomLayer,0402C,224.901,535.039,360,0402C
+C8,1uF/25V,BottomLayer,0402C,224.901,592.519,360,0402C
+D1,RSX051VYM30FHTR,BottomLayer,TUMD2M,56.541,494.524,270,
+D2,RSX051VYM30FHTR,BottomLayer,TUMD2M,129.784,511.867,90,
+D3,RSX051VYM30FHTR,BottomLayer,TUMD2M,54.134,301.181,270,
+J1,ePaper_FPC,BottomLayer,SSD1675A_ZIF_24pins,367.618,337.598,360,
+L1,LPS3314-473MBR,BottomLayer,IND_WURTH_WE-TPC_4828,143.175,100.394,90,INDUCTOR
+Q1,MOSFET_N,BottomLayer,SC-70_3_leads,155.512,298.228,180,SC-70_3_leads
+R1,100k,BottomLayer,0201R,244.587,366.142,360,0201R
+R2,2R2,BottomLayer,0603R,242.126,301.122,90,0603R

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=J1-GND
+Removed Pin From Net: NetName=GND Pin=J1-GND
+Added Component: Designator=C10(0402C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "GRM155R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2218855"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0402C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "GRM155R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2218855"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=D2-A
+Added Pin To Net: NetName=NetC10_2 Pin=J1-23
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=D3-K
+Added Pin To Net: NetName=NetC11_2 Pin=J1-21
+Added Net: Name=NetC11_2
+Added Member To Class: ClassName=ePaper_display_sch Member=Component C10 1uF/25V
+Added Member To Class: ClassName=ePaper_display_sch Member=Component C11 1uF/25V
